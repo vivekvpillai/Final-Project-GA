@@ -15,6 +15,6 @@ User Stories + Portfolio Quality Styling
 
 
 Schedule:
-Week 1: Learn Java and set up backend. Spend time going over Django one-many for review. 
-Week 2: Set up React FrontEnd and Complete Redux/Regex
-Week 3: CSS
+- Week 1: Learn Java and set up backend. Spend time going over Django one-many and any fundamental concepts for review.
+- Week 2: Set up React FrontEnd and Complete Redux/Regex
+- Week 3: CSS
